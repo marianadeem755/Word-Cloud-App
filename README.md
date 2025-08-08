@@ -1,29 +1,3 @@
-### Key Features of the Word Cloud Generator App
-
-1. **File Upload Support**: Users can upload text files, PDFs, or Word documents to generate a word cloud from the content.
-
-2. **Text Processing**: The app reads and processes the uploaded files, extracting text while removing common stopwords for more meaningful word clouds.
-
-3. **Customizable Word Cloud**: Users can adjust various parameters such as width, height, maximum words, background color, contour width, and contour color to create a personalized word cloud.
-
-4. **Real-Time Visualization**: The generated word cloud is displayed immediately, allowing users to see the results of their input instantly.
-
-5. **Download Options**: Users can save the generated word cloud in multiple formats (PNG, JPEG, SVG, PDF) and download a CSV file containing word counts.
-
-6. **Word Count Table**: The app provides a detailed table of word counts, showing the frequency of each word in the uploaded text.
-
-7. **User -Friendly Interface**: Built with Streamlit, the app features an intuitive layout that guides users through the process of generating a word cloud.
-
-8. **Interactive Sidebar**: The sidebar allows users to customize their word cloud settings easily and view author information and contact details.
-
-9. **Educational Tool**: The app serves as a great resource for learning about text analysis and visualization techniques.
-
-10. **Open Source**: The code is available for users to modify and enhance, promoting collaboration and learning within the community.
-
-
-### Complete README File for the Word Cloud Generator App
-
-```markdown
 # Word Cloud Generator App
 
 ## Overview
