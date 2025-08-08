@@ -1,4 +1,4 @@
-# Word Cloud Generator App
+# ☁️Word Cloud Generator App
 
 ## Overview
 The Word Cloud Generator App allows users to create visually appealing word clouds from text files, PDFs, or Word documents. It processes the uploaded content, removes common stopwords, and generates a customizable word cloud based on user-defined parameters.
